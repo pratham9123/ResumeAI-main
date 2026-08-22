@@ -1,0 +1,59 @@
+{
+  "version": "1.0",
+  "chunks": [
+    {
+      "id": "backend_developer.summary.01",
+      "role": "backend_developer",
+      "category": "professional_summary",
+      "title": "Anchor a backend summary in service responsibilities",
+      "text": "Identify the backend languages and frameworks actually used, the kinds of services or data workloads handled, and a proven reliability or performance outcome. Useful scope includes API traffic, asynchronous jobs, integrations, or data volume. Avoid calling systems scalable or secure without evidence describing how or at what scale.",
+      "source": "ResumeAI editorial guidance v1",
+      "tags": ["summary", "backend", "services"]
+    },
+    {
+      "id": "backend_developer.skills.01",
+      "role": "backend_developer",
+      "category": "technical_skills",
+      "title": "Separate backend capabilities from tool names",
+      "text": "Group languages and frameworks separately from databases, messaging, cloud infrastructure, API protocols, security, testing, and observability. Include concepts such as transactions or caching only if demonstrated. This structure lets reviewers distinguish implementation experience from a long undifferentiated stack list.",
+      "source": "ResumeAI editorial guidance v1",
+      "tags": ["skills", "backend", "databases", "apis"]
+    },
+    {
+      "id": "backend_developer.architecture.01",
+      "role": "backend_developer",
+      "category": "project_architecture",
+      "title": "Describe backend request and data boundaries",
+      "text": "For a backend project, identify the API or event entry point, business-service boundary, persistence layer, external integrations, and asynchronous processing. Explain one design choice such as idempotency, queueing, caching, indexing, or transaction scope. State measured load or failure behavior when it was actually tested.",
+      "source": "ResumeAI editorial guidance v1",
+      "tags": ["architecture", "backend", "data_flow"]
+    },
+    {
+      "id": "backend_developer.bullet_examples.01",
+      "role": "backend_developer",
+      "category": "bullet_examples",
+      "title": "Replace a vague API bullet with operational evidence",
+      "text": "Weak: 'Built scalable REST APIs with Node.js.' Strong: 'Implemented six authenticated order endpoints in Express and added database indexes for the two slowest queries, keeping p95 latency below 250 ms in a 100-request-per-second load test.' Scope and test conditions make the claim auditable.",
+      "source": "ResumeAI editorial guidance v1",
+      "tags": ["apis", "strong_bullet", "latency"]
+    },
+    {
+      "id": "backend_developer.keywords.01",
+      "role": "backend_developer",
+      "category": "role_keywords",
+      "title": "Prioritize backend keywords that match the vacancy",
+      "text": "Common backend concepts include REST or GraphQL APIs, authentication, authorization, SQL, NoSQL, schema design, transactions, caching, message queues, microservices, testing, containers, monitoring, and cloud deployment. Match the job's exact terminology only where the resume contains truthful supporting evidence.",
+      "source": "ResumeAI editorial guidance v1",
+      "tags": ["keywords", "backend", "ats"]
+    },
+    {
+      "id": "backend_developer.mistakes.01",
+      "role": "backend_developer",
+      "category": "common_mistakes",
+      "title": "Avoid architecture labels without engineering detail",
+      "text": "A list containing microservices, event-driven, secure, cloud-native, and high availability does not show backend competence by itself. Explain service boundaries, events, failure handling, access control, deployment, or monitoring. Do not claim ownership of an organization-wide architecture when the candidate implemented only one component.",
+      "source": "ResumeAI editorial guidance v1",
+      "tags": ["mistakes", "architecture", "credibility"]
+    }
+  ]
+}

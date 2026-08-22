@@ -1,0 +1,22 @@
+{
+  "chunks": [
+    {
+      "id": "backend.test.001",
+      "role": "backend_developer",
+      "category": "project_descriptions",
+      "title": "Describe backend boundaries",
+      "text": "Describe API boundaries, persistence decisions, failure handling, and verified operational behavior without inventing scale.",
+      "source": "ResumeAI deterministic test fixture",
+      "tags": ["backend", "architecture"]
+    },
+    {
+      "id": "general.test.001",
+      "role": "general",
+      "category": "measurable_impact",
+      "title": "Use verified measures",
+      "text": "Preserve metrics already supported by the resume and request a user-provided measure when evidence is unavailable.",
+      "source": "ResumeAI deterministic test fixture",
+      "tags": ["impact", "evidence"]
+    }
+  ]
+}

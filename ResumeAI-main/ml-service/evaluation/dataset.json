@@ -1,0 +1,50 @@
+[
+  {
+    "target_role": "software_engineer",
+    "resume_text": "Alex Mercer\nEmail: alex.mercer@example.com\n\nExperience:\nJunior Developer, TechCorp (2022-Present)\n- Maintained internal tools using Python and basic SQL.\n- Fixed bugs in legacy PHP application.\n- Participated in daily standups.\n\nEducation:\nB.S. Computer Science, State University",
+    "job_description": "We are looking for a Software Engineer with experience in building scalable microservices using Go or Java, designing RESTful APIs, and working with cloud platforms like AWS or GCP. You should be familiar with CI/CD pipelines and containerization (Docker/Kubernetes).",
+    "expected_relevant_categories": ["cloud_technologies", "system_design", "backend_frameworks"],
+    "expected_missing_skills": ["Go", "Java", "AWS", "Docker", "RESTful APIs", "Kubernetes"],
+    "prohibited_fabricated_claims": ["Has experience with Go", "Is an AWS certified professional", "Built microservices"]
+  },
+  {
+    "target_role": "backend_developer",
+    "resume_text": "Jordan Lee\nEmail: jordan.lee@example.com\n\nExperience:\nBackend Developer, WebSolutions (2021-2023)\n- Developed REST APIs using Node.js and Express.\n- Managed MongoDB databases and optimized queries.\n- Wrote unit tests using Jest.\n\nEducation:\nB.S. Information Technology",
+    "job_description": "Seeking a Backend Developer proficient in Python, Django/FastAPI, and PostgreSQL. Must have experience with Redis caching, message queues (RabbitMQ/Kafka), and deploying applications on Linux servers.",
+    "expected_relevant_categories": ["backend_frameworks", "databases", "system_design"],
+    "expected_missing_skills": ["Python", "Django", "PostgreSQL", "Redis", "Kafka", "Linux"],
+    "prohibited_fabricated_claims": ["Has 5 years of Python experience", "Used Kafka for real-time messaging"]
+  },
+  {
+    "target_role": "frontend_developer",
+    "resume_text": "Casey Smith\nEmail: casey.smith@example.com\n\nExperience:\nWeb Designer, CreativeAgency (2020-Present)\n- Designed responsive websites using HTML, CSS, and basic JavaScript.\n- Used jQuery for DOM manipulation.\n- Worked closely with clients to gather requirements.\n\nEducation:\nB.A. Graphic Design",
+    "job_description": "Frontend Developer needed with strong skills in React.js, TypeScript, and modern state management (Redux/Zustand). Experience with Webpack, CSS preprocessors (SASS), and writing end-to-end tests (Cypress) is highly desired.",
+    "expected_relevant_categories": ["frontend_frameworks", "web_technologies"],
+    "expected_missing_skills": ["React.js", "TypeScript", "Redux", "SASS", "Cypress"],
+    "prohibited_fabricated_claims": ["Expert in React", "Used TypeScript in production"]
+  },
+  {
+    "target_role": "fullstack_developer",
+    "resume_text": "Taylor Doe\nEmail: taylor.doe@example.com\n\nExperience:\nFull-Stack Developer, StartupInc (2022-2024)\n- Built web applications using the MERN stack (MongoDB, Express, React, Node).\n- Integrated third-party APIs (Stripe, Twilio).\n- Deployed apps to Heroku.\n\nEducation:\nCoding Bootcamp Graduate",
+    "job_description": "Looking for a Full-Stack Developer to work on our enterprise application. Must know C#/.NET Core for backend, and Angular for frontend. Experience with SQL Server, Entity Framework, and Azure cloud services is required.",
+    "expected_relevant_categories": ["backend_frameworks", "frontend_frameworks", "cloud_technologies"],
+    "expected_missing_skills": ["C#", ".NET Core", "Angular", "SQL Server", "Azure"],
+    "prohibited_fabricated_claims": ["Has .NET experience", "Built apps in Angular"]
+  },
+  {
+    "target_role": "data_analyst",
+    "resume_text": "Morgan Davis\nEmail: morgan.davis@example.com\n\nExperience:\nData Entry Specialist, DataCorp (2019-2022)\n- Entered large volumes of data into Excel spreadsheets.\n- Created basic pivot tables and charts.\n- Maintained data accuracy and cleanliness.\n\nEducation:\nB.S. Business Administration",
+    "job_description": "Data Analyst role requiring advanced SQL skills for complex querying, proficiency in Python (Pandas, NumPy) or R for statistical analysis, and experience with data visualization tools like Tableau or PowerBI. Knowledge of A/B testing methodology is a plus.",
+    "expected_relevant_categories": ["data_analysis", "databases", "programming_languages"],
+    "expected_missing_skills": ["SQL", "Python", "Pandas", "Tableau", "PowerBI"],
+    "prohibited_fabricated_claims": ["Wrote complex SQL queries", "Used Tableau for dashboards"]
+  },
+  {
+    "target_role": "machine_learning_engineer",
+    "resume_text": "Riley Chen\nEmail: riley.chen@example.com\n\nExperience:\nData Scientist, Analytics LLC (2021-2024)\n- Built predictive models using scikit-learn and XGBoost.\n- Performed EDA on customer churn data.\n- Presented findings to stakeholders using Jupyter Notebooks.\n\nEducation:\nM.S. Data Science",
+    "job_description": "We need a Machine Learning Engineer to deploy models into production. Must be proficient in deep learning frameworks (PyTorch or TensorFlow), have experience with ML model deployment (MLflow, TorchServe), and strong software engineering skills in C++ or Python. Familiarity with LLMs and LangChain is highly preferred.",
+    "expected_relevant_categories": ["machine_learning", "mlops", "programming_languages"],
+    "expected_missing_skills": ["PyTorch", "TensorFlow", "MLflow", "C++", "LangChain", "LLMs"],
+    "prohibited_fabricated_claims": ["Deployed models with MLflow", "Trained Deep Learning models in PyTorch"]
+  }
+]

@@ -1,0 +1,59 @@
+{
+  "version": "1.0",
+  "chunks": [
+    {
+      "id": "data_analyst.summary.01",
+      "role": "data_analyst",
+      "category": "professional_summary",
+      "title": "Position analysis around decisions and domains",
+      "text": "Name the analyst's domain, core tools, types of analysis, and one decision or operational outcome supported by the work. Distinguish reporting, diagnostic analysis, experimentation, and forecasting when relevant. Avoid generic claims of being data-driven without describing the data, stakeholders, or decisions involved.",
+      "source": "ResumeAI editorial guidance v1",
+      "tags": ["summary", "data_analysis", "business_impact"]
+    },
+    {
+      "id": "data_analyst.skills.01",
+      "role": "data_analyst",
+      "category": "technical_skills",
+      "title": "Organize analyst skills by analytical workflow",
+      "text": "Group capabilities into querying, data preparation, statistics, visualization or BI, spreadsheets, and relevant domain tools. Include SQL dialects or BI platforms only when used. Balance tools with methods such as cohort analysis, experimentation, forecasting, or data validation when the resume provides evidence.",
+      "source": "ResumeAI editorial guidance v1",
+      "tags": ["skills", "sql", "statistics", "bi"]
+    },
+    {
+      "id": "data_analyst.experience.01",
+      "role": "data_analyst",
+      "category": "work_experience",
+      "title": "Connect analysis steps to stakeholder action",
+      "text": "A strong analyst bullet identifies the business question, relevant dataset, analytical method, delivered artifact, and resulting decision or process change. Mention data quality checks and assumptions when material. Do not stop at 'created dashboards' when the audience, metric definitions, refresh process, or usage outcome can be stated.",
+      "source": "ResumeAI editorial guidance v1",
+      "tags": ["experience", "stakeholders", "analysis"]
+    },
+    {
+      "id": "data_analyst.bullet_examples.01",
+      "role": "data_analyst",
+      "category": "bullet_examples",
+      "title": "Turn dashboard creation into a decision outcome",
+      "text": "Weak: 'Built a sales dashboard in Power BI.' Strong: 'Modeled weekly pipeline data from three CRM tables and published a Power BI dashboard that sales managers used to identify stalled opportunities, cutting manual review time by five hours per week.' The strong version includes data, artifact, audience, use, and impact.",
+      "source": "ResumeAI editorial guidance v1",
+      "tags": ["dashboard", "strong_bullet", "business_impact"]
+    },
+    {
+      "id": "data_analyst.keywords.01",
+      "role": "data_analyst",
+      "category": "role_keywords",
+      "title": "Match analyst keywords to demonstrated methods",
+      "text": "Common terms include SQL, Excel, Python or R, data cleaning, data validation, dashboarding, KPI definition, statistical analysis, A/B testing, forecasting, stakeholder communication, and data visualization. Use the vacancy's exact language only where projects or experience demonstrate the corresponding method and result.",
+      "source": "ResumeAI editorial guidance v1",
+      "tags": ["keywords", "data_analysis", "ats"]
+    },
+    {
+      "id": "data_analyst.claim_quality.01",
+      "role": "data_analyst",
+      "category": "claim_quality",
+      "title": "Qualify conclusions and metric claims",
+      "text": "Avoid saying an analysis proved causation when it only showed correlation, or claiming revenue impact without a defensible attribution method. State the comparison period, population, baseline, and analytical method when available. If stakeholders acted on a recommendation, describe that action separately from the outcome observed later.",
+      "source": "ResumeAI editorial guidance v1",
+      "tags": ["claims", "statistics", "credibility"]
+    }
+  ]
+}

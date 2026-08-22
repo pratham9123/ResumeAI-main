@@ -1,0 +1,59 @@
+{
+  "version": "1.0",
+  "chunks": [
+    {
+      "id": "frontend_developer.summary.01",
+      "role": "frontend_developer",
+      "category": "professional_summary",
+      "title": "Connect frontend expertise to user outcomes",
+      "text": "Name the primary framework and interface types, then support them with evidence about accessibility, performance, design-system adoption, conversion, or delivery. Keep the focus on user-facing engineering rather than calling the candidate creative or detail-oriented. Include collaboration with design or product only when demonstrated.",
+      "source": "ResumeAI editorial guidance v1",
+      "tags": ["summary", "frontend", "user_experience"]
+    },
+    {
+      "id": "frontend_developer.skills.01",
+      "role": "frontend_developer",
+      "category": "technical_skills",
+      "title": "Organize frontend skills around delivery capabilities",
+      "text": "Separate core languages, frameworks, state and data tools, styling, testing, accessibility, performance, and build tooling. Put HTML, CSS, and JavaScript or TypeScript fundamentals ahead of minor libraries. Retain only tools that the candidate can discuss and connect important ones to project or experience evidence.",
+      "source": "ResumeAI editorial guidance v1",
+      "tags": ["skills", "frontend", "testing", "accessibility"]
+    },
+    {
+      "id": "frontend_developer.projects.01",
+      "role": "frontend_developer",
+      "category": "project_descriptions",
+      "title": "Describe frontend projects beyond visual appearance",
+      "text": "Explain the user problem, key interaction, component or state architecture, API integration, and a quality outcome such as responsiveness, accessibility, test coverage, or load performance. Link to a live demo or repository when appropriate. Avoid describing a project only as modern, responsive, or user-friendly.",
+      "source": "ResumeAI editorial guidance v1",
+      "tags": ["projects", "frontend", "user_flows"]
+    },
+    {
+      "id": "frontend_developer.bullet_examples.01",
+      "role": "frontend_developer",
+      "category": "bullet_examples",
+      "title": "Make a frontend optimization bullet testable",
+      "text": "Weak: 'Improved website performance and UX.' Strong: 'Lazy-loaded route bundles and compressed hero images, reducing the measured mobile Largest Contentful Paint from 4.1 seconds to 2.3 seconds.' Name the techniques, metric, device context, and before-and-after result when those measurements are available.",
+      "source": "ResumeAI editorial guidance v1",
+      "tags": ["performance", "web_vitals", "strong_bullet"]
+    },
+    {
+      "id": "frontend_developer.keywords.01",
+      "role": "frontend_developer",
+      "category": "role_keywords",
+      "title": "Use frontend keywords with implementation context",
+      "text": "Potentially relevant terms include semantic HTML, responsive design, accessibility, WCAG, component architecture, state management, API integration, browser compatibility, unit testing, end-to-end testing, design systems, Core Web Vitals, and performance optimization. Select exact terms from the vacancy and substantiate them in bullets.",
+      "source": "ResumeAI editorial guidance v1",
+      "tags": ["keywords", "frontend", "ats"]
+    },
+    {
+      "id": "frontend_developer.mistakes.01",
+      "role": "frontend_developer",
+      "category": "common_mistakes",
+      "title": "Do not substitute a library inventory for frontend impact",
+      "text": "Listing many component libraries, CSS frameworks, and state packages can hide the candidate's actual contribution. Prioritize durable skills and explain which user flow, component system, accessibility issue, or performance constraint was addressed. Remove claims of pixel-perfect implementation unless quality was verified against a defined design or test.",
+      "source": "ResumeAI editorial guidance v1",
+      "tags": ["mistakes", "frontend", "evidence"]
+    }
+  ]
+}

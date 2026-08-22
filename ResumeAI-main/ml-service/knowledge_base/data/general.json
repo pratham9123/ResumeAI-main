@@ -1,0 +1,59 @@
+{
+  "version": "1.0",
+  "chunks": [
+    {
+      "id": "general.summary.01",
+      "role": "general",
+      "category": "professional_summary",
+      "title": "Build a specific professional summary",
+      "text": "Use two or three lines to state the candidate's professional identity, relevant scope, strongest evidence, and target value. Replace generic traits such as hardworking or passionate with facts such as years of experience, domain, scale, or a verified outcome. Do not introduce skills that the resume cannot support elsewhere.",
+      "source": "ResumeAI editorial guidance v1",
+      "tags": ["summary", "positioning", "evidence"]
+    },
+    {
+      "id": "general.ats_formatting.01",
+      "role": "general",
+      "category": "ats_formatting",
+      "title": "Use a predictable ATS-readable structure",
+      "text": "Prefer a single-column layout with conventional headings such as Summary, Skills, Experience, Projects, and Education. Keep essential information in the document body rather than headers, footers, images, text boxes, or charts. Use consistent dates, ordinary bullets, readable fonts, and selectable text.",
+      "source": "ResumeAI editorial guidance v1",
+      "tags": ["ats", "formatting", "sections"]
+    },
+    {
+      "id": "general.action_verbs.01",
+      "role": "general",
+      "category": "action_verbs",
+      "title": "Choose verbs that reveal ownership",
+      "text": "Start achievement bullets with precise verbs that match the work performed: designed, implemented, analyzed, automated, led, reduced, or validated. Avoid repeating responsible for, worked on, helped with, and participated in because they conceal ownership. The verb must remain truthful to the candidate's actual contribution.",
+      "source": "ResumeAI editorial guidance v1",
+      "tags": ["action_verbs", "bullets", "ownership"]
+    },
+    {
+      "id": "general.measurable_impact.01",
+      "role": "general",
+      "category": "measurable_impact",
+      "title": "Quantify impact with defensible measures",
+      "text": "Attach a credible measure to the result when one is known: time saved, error reduction, revenue supported, users served, throughput, latency, adoption, or delivery speed. Give context and method, not an isolated percentage. If no reliable number exists, describe observable scope or outcome rather than inventing a metric.",
+      "source": "ResumeAI editorial guidance v1",
+      "tags": ["metrics", "impact", "evidence"]
+    },
+    {
+      "id": "general.bullet_examples.01",
+      "role": "general",
+      "category": "bullet_examples",
+      "title": "Turn a duty into an evidence-based bullet",
+      "text": "Weak: 'Responsible for improving the reporting process.' Strong: 'Automated the weekly reporting workflow with reusable templates, reducing preparation time from four hours to one.' The strong version names the action, object, method, and outcome without exaggerating the candidate's role.",
+      "source": "ResumeAI editorial guidance v1",
+      "tags": ["weak_bullet", "strong_bullet", "impact"]
+    },
+    {
+      "id": "general.claim_quality.01",
+      "role": "general",
+      "category": "claim_quality",
+      "title": "Remove unsupported and vague claims",
+      "text": "Claims such as expert, best-in-class, highly scalable, exceptional communicator, or significantly improved are weak unless the resume supplies evidence. Replace each with a verifiable behavior, artifact, scale, comparison, or outcome. Preserve uncertainty where appropriate and never infer proficiency solely from a keyword in a job description.",
+      "source": "ResumeAI editorial guidance v1",
+      "tags": ["claims", "credibility", "mistakes"]
+    }
+  ]
+}

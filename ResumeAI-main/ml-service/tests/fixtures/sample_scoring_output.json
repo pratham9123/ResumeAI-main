@@ -1,0 +1,21 @@
+{
+  "weighted_score": {
+    "final_score": 63,
+    "breakdown": {
+      "core": 0.5,
+      "secondary": 0.44,
+      "experience": 0.6,
+      "quality": 0.61
+    },
+    "weights": {
+      "core_skill_match": 0.4,
+      "resume_quality": 0.4,
+      "semantic_similarity": 0.1,
+      "experience_signal": 0.1
+    }
+  },
+  "similarity_score": 0.44,
+  "missing_skills": ["unit testing", "Docker"],
+  "weak_sections": ["projects", "summary"],
+  "detected_strengths": ["verified latency improvement"]
+}

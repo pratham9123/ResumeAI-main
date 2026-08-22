@@ -1,0 +1,52 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://resumeai.local/schemas/knowledge-chunk.json",
+  "title": "ResumeAI Knowledge Chunk",
+  "description": "A curated, independently retrievable unit of resume-writing guidance.",
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["id", "role", "category", "title", "text", "source", "tags"],
+  "properties": {
+    "id": {
+      "type": "string",
+      "pattern": "^[a-z0-9][a-z0-9._-]*$"
+    },
+    "role": {
+      "type": "string",
+      "enum": [
+        "software_engineer",
+        "backend_developer",
+        "frontend_developer",
+        "fullstack_developer",
+        "data_analyst",
+        "machine_learning_engineer",
+        "general"
+      ]
+    },
+    "category": {
+      "type": "string",
+      "pattern": "^[a-z][a-z0-9_]*$"
+    },
+    "title": {
+      "type": "string",
+      "minLength": 3
+    },
+    "text": {
+      "type": "string",
+      "minLength": 40
+    },
+    "source": {
+      "type": "string",
+      "minLength": 3
+    },
+    "tags": {
+      "type": "array",
+      "minItems": 1,
+      "uniqueItems": true,
+      "items": {
+        "type": "string",
+        "minLength": 1
+      }
+    }
+  }
+}

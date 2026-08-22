@@ -1,0 +1,59 @@
+{
+  "version": "1.0",
+  "chunks": [
+    {
+      "id": "machine_learning_engineer.summary.01",
+      "role": "machine_learning_engineer",
+      "category": "professional_summary",
+      "title": "Frame ML expertise across model and production work",
+      "text": "State the relevant ML domain, modeling stack, production responsibility, and one validated model or system outcome. Distinguish experimentation from deployed inference and monitoring. Avoid calling the candidate an AI expert based only on API usage or describing a prototype as production-grade without deployment evidence.",
+      "source": "ResumeAI editorial guidance v1",
+      "tags": ["summary", "machine_learning", "production_ml"]
+    },
+    {
+      "id": "machine_learning_engineer.skills.01",
+      "role": "machine_learning_engineer",
+      "category": "technical_skills",
+      "title": "Separate modeling, data, and ML systems skills",
+      "text": "Group skills into languages, data processing, modeling frameworks, evaluation methods, serving, experiment tracking, cloud, and MLOps. Include model families or techniques only when applied. This prevents Python, libraries, algorithms, and infrastructure from appearing as equivalent forms of proficiency.",
+      "source": "ResumeAI editorial guidance v1",
+      "tags": ["skills", "mlops", "modeling", "data"]
+    },
+    {
+      "id": "machine_learning_engineer.projects.01",
+      "role": "machine_learning_engineer",
+      "category": "project_descriptions",
+      "title": "Describe the complete ML project lifecycle",
+      "text": "Cover the problem and dataset, preprocessing, baseline, model choice, validation design, relevant metric, error analysis, and serving or delivery path. State data size and split strategy where useful. A model name and accuracy score alone do not explain whether the experiment was valid or operationally useful.",
+      "source": "ResumeAI editorial guidance v1",
+      "tags": ["projects", "model_evaluation", "ml_lifecycle"]
+    },
+    {
+      "id": "machine_learning_engineer.architecture.01",
+      "role": "machine_learning_engineer",
+      "category": "project_architecture",
+      "title": "Explain training and inference architecture separately",
+      "text": "Describe how data is validated and transformed for training, how experiments and artifacts are tracked, and how the selected model reaches inference. Then identify serving mode, latency or batch constraints, monitoring, and retraining triggers if implemented. Do not imply an automated MLOps pipeline when steps were manual.",
+      "source": "ResumeAI editorial guidance v1",
+      "tags": ["architecture", "training", "inference", "mlops"]
+    },
+    {
+      "id": "machine_learning_engineer.bullet_examples.01",
+      "role": "machine_learning_engineer",
+      "category": "bullet_examples",
+      "title": "Report model improvement against a valid baseline",
+      "text": "Weak: 'Built a highly accurate churn prediction model.' Strong: 'Trained a gradient-boosted churn classifier on 180,000 labeled accounts and raised validation PR-AUC from the logistic-regression baseline of 0.41 to 0.56 using a time-based split.' Name the dataset, baseline, metric, and validation design.",
+      "source": "ResumeAI editorial guidance v1",
+      "tags": ["strong_bullet", "model_evaluation", "baseline"]
+    },
+    {
+      "id": "machine_learning_engineer.keywords.01",
+      "role": "machine_learning_engineer",
+      "category": "role_keywords",
+      "title": "Use ML keywords at the right level of evidence",
+      "text": "Relevant terms may include feature engineering, model evaluation, cross-validation, error analysis, data pipelines, experiment tracking, model serving, monitoring, drift, containers, cloud, NLP, computer vision, or recommendation systems. Select role-specific terms and tie them to datasets, experiments, or deployed components.",
+      "source": "ResumeAI editorial guidance v1",
+      "tags": ["keywords", "machine_learning", "ats"]
+    }
+  ]
+}

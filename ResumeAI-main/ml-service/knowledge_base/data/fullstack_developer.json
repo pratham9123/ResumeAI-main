@@ -1,0 +1,59 @@
+{
+  "version": "1.0",
+  "chunks": [
+    {
+      "id": "fullstack_developer.summary.01",
+      "role": "fullstack_developer",
+      "category": "professional_summary",
+      "title": "Define full-stack scope without claiming equal depth",
+      "text": "State the candidate's strongest layer, the complementary layer they can deliver, and the kinds of products shipped end to end. Support breadth with one outcome spanning interface, API, data, or deployment. Avoid implying expert-level depth across every technology unless the experience section genuinely demonstrates it.",
+      "source": "ResumeAI editorial guidance v1",
+      "tags": ["summary", "fullstack", "scope"]
+    },
+    {
+      "id": "fullstack_developer.skills.01",
+      "role": "fullstack_developer",
+      "category": "technical_skills",
+      "title": "Make a broad full-stack skill set scannable",
+      "text": "Group skills into Frontend, Backend, Data, Testing, and Cloud or DevOps. Within each group, lead with the technologies most relevant to the job and used in recent work. Avoid one alphabetized list because it obscures depth, layer ownership, and how the candidate assembles a complete application.",
+      "source": "ResumeAI editorial guidance v1",
+      "tags": ["skills", "fullstack", "technology"]
+    },
+    {
+      "id": "fullstack_developer.projects.01",
+      "role": "fullstack_developer",
+      "category": "project_descriptions",
+      "title": "Show end-to-end ownership in project descriptions",
+      "text": "Describe the user workflow, client implementation, API behavior, data model, authentication or authorization, and deployment path that the candidate personally built. Select the most important architectural choices rather than enumerating every package. Add a measured usage, quality, or delivery result where evidence exists.",
+      "source": "ResumeAI editorial guidance v1",
+      "tags": ["projects", "fullstack", "ownership"]
+    },
+    {
+      "id": "fullstack_developer.architecture.01",
+      "role": "fullstack_developer",
+      "category": "project_architecture",
+      "title": "Describe the end-to-end request lifecycle",
+      "text": "A concise full-stack architecture statement can follow one important request from browser interaction through state handling, API validation, business logic, persistence, and response rendering. Mention deployment or background processing when relevant. Explain one boundary or trade-off, such as server-side validation, caching, or optimistic updates.",
+      "source": "ResumeAI editorial guidance v1",
+      "tags": ["architecture", "request_flow", "fullstack"]
+    },
+    {
+      "id": "fullstack_developer.bullet_examples.01",
+      "role": "fullstack_developer",
+      "category": "bullet_examples",
+      "title": "Replace a stack list with an end-to-end result",
+      "text": "Weak: 'Created a React, Node, and MongoDB application.' Strong: 'Delivered a React booking flow backed by validated Express endpoints and MongoDB availability checks, preventing duplicate reservations during concurrent submissions.' The stronger bullet explains how the layers cooperate and what product risk the implementation addressed.",
+      "source": "ResumeAI editorial guidance v1",
+      "tags": ["strong_bullet", "fullstack", "architecture"]
+    },
+    {
+      "id": "fullstack_developer.keywords.01",
+      "role": "fullstack_developer",
+      "category": "role_keywords",
+      "title": "Balance frontend and backend keyword coverage",
+      "text": "Relevant terms may span responsive interfaces, component architecture, state management, REST or GraphQL APIs, authentication, data modeling, testing, CI/CD, containers, and cloud deployment. Weight the vocabulary toward the vacancy's actual emphasis and connect important terms to evidence rather than forcing equal coverage of every layer.",
+      "source": "ResumeAI editorial guidance v1",
+      "tags": ["keywords", "fullstack", "ats"]
+    }
+  ]
+}

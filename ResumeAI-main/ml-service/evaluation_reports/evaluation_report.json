@@ -1,0 +1,170 @@
+[
+  {
+    "target_role": "software_engineer",
+    "non_rag": {
+      "latency_ms": 142711,
+      "judge_scores": {
+        "relevance": 0,
+        "actionability": 0,
+        "role_specificity": 0,
+        "factual_grounding": 0,
+        "clarity": 0
+      }
+    },
+    "rag": {
+      "latency_ms": 10931,
+      "retrieval_precision_at_k": 0.0,
+      "grounded_recommendation_rate": 0.0,
+      "unsupported_claim_rate": 0,
+      "source_attribution_coverage": 0.0,
+      "judge_scores": {
+        "relevance": 0,
+        "actionability": 0,
+        "role_specificity": 0,
+        "factual_grounding": 0,
+        "clarity": 0
+      },
+      "token_usage": 0
+    }
+  },
+  {
+    "target_role": "backend_developer",
+    "non_rag": {
+      "latency_ms": 24381,
+      "judge_scores": {
+        "relevance": 0,
+        "actionability": 0,
+        "role_specificity": 0,
+        "factual_grounding": 0,
+        "clarity": 0
+      }
+    },
+    "rag": {
+      "latency_ms": 18972,
+      "retrieval_precision_at_k": 0.0,
+      "grounded_recommendation_rate": 0.0,
+      "unsupported_claim_rate": 0,
+      "source_attribution_coverage": 0.0,
+      "judge_scores": {
+        "relevance": 0,
+        "actionability": 0,
+        "role_specificity": 0,
+        "factual_grounding": 0,
+        "clarity": 0
+      },
+      "token_usage": 0
+    }
+  },
+  {
+    "target_role": "frontend_developer",
+    "non_rag": {
+      "latency_ms": 12643,
+      "judge_scores": {
+        "relevance": 0,
+        "actionability": 0,
+        "role_specificity": 0,
+        "factual_grounding": 0,
+        "clarity": 0
+      }
+    },
+    "rag": {
+      "latency_ms": 11682,
+      "retrieval_precision_at_k": 0.0,
+      "grounded_recommendation_rate": 0.0,
+      "unsupported_claim_rate": 0,
+      "source_attribution_coverage": 0.0,
+      "judge_scores": {
+        "relevance": 0,
+        "actionability": 0,
+        "role_specificity": 0,
+        "factual_grounding": 0,
+        "clarity": 0
+      },
+      "token_usage": 0
+    }
+  },
+  {
+    "target_role": "fullstack_developer",
+    "non_rag": {
+      "latency_ms": 37047,
+      "judge_scores": {
+        "relevance": 0,
+        "actionability": 0,
+        "role_specificity": 0,
+        "factual_grounding": 0,
+        "clarity": 0
+      }
+    },
+    "rag": {
+      "latency_ms": 18127,
+      "retrieval_precision_at_k": 0.0,
+      "grounded_recommendation_rate": 0.0,
+      "unsupported_claim_rate": 0,
+      "source_attribution_coverage": 0.0,
+      "judge_scores": {
+        "relevance": 0,
+        "actionability": 0,
+        "role_specificity": 0,
+        "factual_grounding": 0,
+        "clarity": 0
+      },
+      "token_usage": 0
+    }
+  },
+  {
+    "target_role": "data_analyst",
+    "non_rag": {
+      "latency_ms": 23380,
+      "judge_scores": {
+        "relevance": 0,
+        "actionability": 0,
+        "role_specificity": 0,
+        "factual_grounding": 0,
+        "clarity": 0
+      }
+    },
+    "rag": {
+      "latency_ms": 16855,
+      "retrieval_precision_at_k": 0.0,
+      "grounded_recommendation_rate": 0.0,
+      "unsupported_claim_rate": 0,
+      "source_attribution_coverage": 0.0,
+      "judge_scores": {
+        "relevance": 0,
+        "actionability": 0,
+        "role_specificity": 0,
+        "factual_grounding": 0,
+        "clarity": 0
+      },
+      "token_usage": 0
+    }
+  },
+  {
+    "target_role": "machine_learning_engineer",
+    "non_rag": {
+      "latency_ms": 10515,
+      "judge_scores": {
+        "relevance": 0,
+        "actionability": 0,
+        "role_specificity": 0,
+        "factual_grounding": 0,
+        "clarity": 0
+      }
+    },
+    "rag": {
+      "latency_ms": 12415,
+      "retrieval_precision_at_k": 0.0,
+      "grounded_recommendation_rate": 0.0,
+      "unsupported_claim_rate": 0,
+      "source_attribution_coverage": 0.0,
+      "judge_scores": {
+        "relevance": 0,
+        "actionability": 0,
+        "role_specificity": 0,
+        "factual_grounding": 0,
+        "clarity": 0
+      },
+      "token_usage": 0
+    }
+  }
+]

@@ -1,0 +1,61 @@
+{
+  "valid": {
+    "summary": "The resume has relevant backend evidence but needs clearer architecture detail.",
+    "strengths": [
+      {
+        "strength": "Verified latency improvement",
+        "evidence": "The resume reports latency changing from 400 ms to 200 ms."
+      }
+    ],
+    "critical_gaps": [
+      {
+        "gap": "Unit testing is not demonstrated",
+        "basis": "comparison",
+        "evidence": "The job description requests unit testing and the resume does not mention it."
+      }
+    ],
+    "section_feedback": [
+      {
+        "section": "projects",
+        "assessment": "The project has a verified result.",
+        "recommendation": "Clarify the API and persistence boundaries.",
+        "source_ids": ["backend.test.001"]
+      }
+    ],
+    "rewritten_bullets": [
+      {
+        "original": "Built API caching and reduced verified latency from 400 ms to 200 ms.",
+        "improved": "Built API caching, reducing verified latency from 400 ms to 200 ms.",
+        "reason": "Preserves the supported measure while clarifying the action.",
+        "source_ids": ["backend.test.001"],
+        "requires_user_metric": false
+      }
+    ],
+    "priority_actions": [
+      {
+        "action": "Document the project's backend boundaries.",
+        "priority": "high",
+        "source_ids": ["backend.test.001"]
+      }
+    ],
+    "recommended_keywords": [
+      {
+        "keyword": "unit testing",
+        "reason": "Add it only if supported by the candidate's experience.",
+        "source_ids": []
+      }
+    ],
+    "confidence": {
+      "level": "high",
+      "score": 0.84,
+      "reason": "The response uses supplied resume facts and guidance."
+    },
+    "grounding": {
+      "used_source_ids": ["backend.test.001"],
+      "unsupported_claims_detected": [],
+      "notes": "No unsupported metric was added."
+    }
+  },
+  "malformed": "{not valid JSON",
+  "markdown_prefix": "json"
+}

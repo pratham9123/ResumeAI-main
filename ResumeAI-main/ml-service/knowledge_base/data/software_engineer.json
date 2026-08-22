@@ -1,0 +1,59 @@
+{
+  "version": "1.0",
+  "chunks": [
+    {
+      "id": "software_engineer.summary.01",
+      "role": "software_engineer",
+      "category": "professional_summary",
+      "title": "Position a software engineer by systems and outcomes",
+      "text": "State the engineer's level only when supported, then name the primary languages, system types, and one concrete engineering outcome. A useful summary connects implementation ability with reliability, performance, delivery, or user value. Avoid listing every framework in the summary; keep the detailed inventory in Skills.",
+      "source": "ResumeAI editorial guidance v1",
+      "tags": ["summary", "software_engineering", "outcomes"]
+    },
+    {
+      "id": "software_engineer.skills.01",
+      "role": "software_engineer",
+      "category": "technical_skills",
+      "title": "Group engineering skills by function",
+      "text": "Organize skills into compact groups such as Languages, Frameworks, Data, Cloud and DevOps, and Testing. Put role-relevant, demonstrated tools first and remove basic or obsolete items that dilute the signal. A technology named in Skills should ideally be supported by an experience or project bullet.",
+      "source": "ResumeAI editorial guidance v1",
+      "tags": ["skills", "technology", "ats_keywords"]
+    },
+    {
+      "id": "software_engineer.experience.01",
+      "role": "software_engineer",
+      "category": "work_experience",
+      "title": "Show engineering decisions in experience bullets",
+      "text": "Describe what was built or changed, the technical approach, the constraint, and the resulting improvement. Strong engineering bullets expose decisions such as selecting a data structure, redesigning an interface, adding tests, or removing a bottleneck. Do not reduce substantive work to 'developed features' or a bare technology list.",
+      "source": "ResumeAI editorial guidance v1",
+      "tags": ["experience", "decisions", "engineering"]
+    },
+    {
+      "id": "software_engineer.bullet_examples.01",
+      "role": "software_engineer",
+      "category": "bullet_examples",
+      "title": "Describe a performance improvement precisely",
+      "text": "Weak: 'Optimized application performance using caching.' Strong: 'Added request-level caching to the product catalog service, cutting median response time from 420 ms to 160 ms under the existing load test.' Name the measured path, technique, comparison, and test context rather than claiming the whole application became faster.",
+      "source": "ResumeAI editorial guidance v1",
+      "tags": ["performance", "strong_bullet", "metrics"]
+    },
+    {
+      "id": "software_engineer.architecture.01",
+      "role": "software_engineer",
+      "category": "project_architecture",
+      "title": "Explain architecture as a flow with trade-offs",
+      "text": "Summarize a project architecture by naming the important components, how data or requests move between them, and one reason for the design. Mention boundaries such as client, API, worker, database, and external service only when they exist. Add the relevant reliability, scale, security, or maintainability trade-off.",
+      "source": "ResumeAI editorial guidance v1",
+      "tags": ["architecture", "projects", "system_design"]
+    },
+    {
+      "id": "software_engineer.keywords.01",
+      "role": "software_engineer",
+      "category": "role_keywords",
+      "title": "Use software-engineering keywords in evidence",
+      "text": "Relevant terms may include data structures, algorithms, APIs, distributed systems, testing, code review, CI/CD, observability, performance, reliability, and version control. Select only terms present in the target role and supported by real work. Place them naturally in achievement bullets instead of appending an unverified keyword block.",
+      "source": "ResumeAI editorial guidance v1",
+      "tags": ["keywords", "software_engineering", "ats"]
+    }
+  ]
+}

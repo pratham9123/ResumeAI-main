@@ -1,0 +1,47 @@
+# Dependencies
+node_modules/
+
+# Environment variables – NEVER commit real .env files
+.env
+.env.local
+.env.production
+.env.development
+backend/.env
+frontend/.env
+ml-service/.env
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+venv/
+env/
+*.egg-info/
+build/
+.pytest_cache/
+*.pth
+
+# Vite / React build output
+dist/
+frontend/dist/
+
+# Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+
+# Uploads (local fallback – not needed in prod)
+backend/uploads/*.pdf
+backend/uploads/*.docx
